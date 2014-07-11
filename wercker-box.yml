@@ -11,4 +11,4 @@ keywords:
 packages:
   - karma-cli@0.0.4
 script: |
-  npm install karma-cli -g
+  sudo npm install karma-cli -g
