@@ -1,7 +1,7 @@
 name: karma
 version: 0.1.0
 inherits: wercker/ubuntu12.04-webessentials@1.0.4
-type: service
+type: main
 platform: ubuntu@12.04
 description: Box with karma test runner
 keywords:
